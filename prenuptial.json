@@ -1,0 +1,124 @@
+{
+  "title": "PRENUPTIAL AGREEMENT",
+  "date": "2024-02-23T00:00:00Z",
+  "version": "1.0",
+  "status": "Draft",
+  "parties": {
+    "party1": {
+      "name": "Seth Magee",
+      "assets": [
+        {
+          "type": "Real Estate",
+          "description": "Brooklyn Condo (99 Kingsland Ave #407)",
+          "value": 650000,
+          "ownership": "Sole"
+        },
+        {
+          "type": "Retirement",
+          "description": "Fidelity Account (401k & Comcast Stock)",
+          "value": 607519,
+          "ownership": "Sole"
+        },
+        {
+          "type": "Cash",
+          "description": "Bank Accounts",
+          "value": 20000,
+          "ownership": "Sole"
+        }
+      ],
+      "debts": [
+        {
+          "type": "Mortgage",
+          "description": "Brooklyn Condo Mortgage",
+          "value": 237205.79,
+          "responsibility": "Sole"
+        }
+      ],
+      "income": {
+        "source": "Comcast Spotlight",
+        "amount": 122635.24
+      },
+      "netWorth": 1040313.21
+    },
+    "party2": {
+      "name": "Nalyse Seymore",
+      "assets": [
+        {
+          "type": "Real Estate",
+          "description": "Manhattan Condo (112 East 98th Street #5R)",
+          "value": 240000,
+          "ownership": "Sole"
+        },
+        {
+          "type": "Cash",
+          "description": "Bank Accounts",
+          "value": 10000,
+          "ownership": "Sole"
+        }
+      ],
+      "debts": [
+        {
+          "type": "Mortgage",
+          "description": "Manhattan Condo Mortgage",
+          "value": 189150.40,
+          "responsibility": "Sole"
+        }
+      ],
+      "income": {
+        "source": "Jewish Child Care Association",
+        "amount": 41000.00
+      },
+      "netWorth": 60849.60
+    }
+  },
+  "childInfo": {
+    "name": "Lillian Magee",
+    "dateOfBirth": "2014-03-15"
+  },
+  "sections": [
+    {
+      "title": "Purpose and Intent",
+      "content": "This Agreement is made to clarify the financial rights and responsibilities of the parties in the event of a divorce or legal separation. Both parties acknowledge that this Agreement is made in contemplation of marriage, with full disclosure of assets and debts, and with the opportunity to seek independent legal counsel prior to signing."
+    },
+    {
+      "title": "Separate Property",
+      "content": "All property owned by each party prior to marriage shall remain the separate property of that party, including any appreciation, income, or other increase in value of that property during the marriage. This includes but is not limited to real estate, retirement accounts, investments, and businesses listed in this agreement."
+    },
+    {
+      "title": "Marital Property",
+      "content": "Property acquired during the marriage through the efforts of either party shall be considered marital property, subject to division in the event of divorce. However, property acquired by gift or inheritance during the marriage shall remain separate property of the recipient party."
+    },
+    {
+      "title": "Debts and Liabilities",
+      "content": "Each party shall remain solely responsible for debts and liabilities incurred before the marriage. Debts incurred jointly during the marriage shall be the responsibility of both parties. Each party remains solely responsible for educational debts incurred before or during the marriage."
+    },
+    {
+      "title": "Family Considerations",
+      "content": "In the event of divorce, the welfare of any minor children shall be given highest priority. Parenting arrangements will be made with the best interests of the children in mind, and this agreement does not predetermine custody or child support obligations."
+    },
+    {
+      "title": "Dissolution of Marriage",
+      "content": "Each party to this Agreement understands that the Uniform Premarital Agreement Act and court decisions provide for consideration of a prenuptial agreement by the divorce court if a marriage is dissolved. Without in any way anticipating dissolution or planning for dissolution, but recognizing the realities of the world, it is the express intention of Seth Magee and Nalyse Seymore that the provisions in this agreement shall prevail in the event of dissolution."
+    },
+    {
+      "title": "Support",
+      "content": "Each of the parties has income from individual property interests sufficient to provide for his or her respective support. Each party has been self-supporting for a period of time prior to the contemplated marriage. Both parties feel that they are capable of future self-support and of maintaining themselves on a self-supporting basis. Therefore, in the event of a marital separation or dissolution, it is agreed and understood that neither party shall seek or obtain any form of alimony or support from the other."
+    },
+    {
+      "title": "Conflict Resolution",
+      "content": "In the event of a dispute regarding interpretation or application of this agreement, the parties agree to attempt resolution through mediation before pursuing litigation. Both parties acknowledge the importance of respectful communication and good-faith efforts to resolve conflicts."
+    }
+  ],
+  "governingLaw": "New York",
+  "modifications": [
+    {
+      "date": "2024-02-23T00:00:00Z",
+      "description": "Updated party name from Olivenne Curry to Nalyse Seymore",
+      "author": "Legal counsel"
+    }
+  ],
+  "signatures": {
+    "status": "Pending",
+    "notes": "Both parties to review with independent counsel before signing"
+  }
+}

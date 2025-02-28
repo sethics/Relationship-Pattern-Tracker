@@ -1,0 +1,188 @@
+{
+  "incidents": [
+    {
+      "id": "20250226001",
+      "date": "2025-02-26T00:00:00Z",
+      "category": "Emotional Manipulation",
+      "subcategory": "Blame Shifting",
+      "description": "Running together - Blamed for almost taking wrong turn with accusation of making health symptoms worse",
+      "impact": "Medium",
+      "resolution": "None",
+      "notes": "Intentions were positive (relationship building activity), but outcome was relationship-damaging blame",
+      "patterns": ["blame shifting", "health justification", "experience ruining accusations"],
+      "triggers": ["minor mistake"],
+      "relatedIncidents": [],
+      "evidence": {
+        "type": "verbal",
+        "quotes": ["you are making my cramps worse"]
+      },
+      "emotionalState": {
+        "partner": "accusatory, irritable",
+        "self": "hurt, discouraged"
+      },
+      "context": "Shared activity (running together) intended as positive relationship building"
+    },
+    {
+      "id": "20240223001",
+      "date": "2024-02-23T00:00:00Z",
+      "category": "Emotional Manipulation",
+      "subcategory": "Blame Shifting",
+      "description": "Tattoo removal appointment - Blamed for work responsibilities, accused of lying, threatened with \"never forgiving\"",
+      "impact": "High",
+      "resolution": "None - Issue dropped without acknowledgment",
+      "notes": "Left after attempts to be supportive were rejected",
+      "patterns": ["work interference", "emotional blackmail", "support punishment"],
+      "triggers": ["work responsibilities", "schedule conflict"],
+      "relatedIncidents": [],
+      "evidence": {
+        "type": "verbal",
+        "quotes": ["I'll never forgive you for leaving me to do this alone"]
+      },
+      "emotionalState": {
+        "partner": "angry, accusatory",
+        "self": "conflicted, supportive initially"
+      }
+    },
+    {
+      "id": "20240223002",
+      "date": "2024-02-23T00:00:00Z",
+      "category": "Boundary Violation",
+      "subcategory": "Personal Space",
+      "description": "Refused to block male trainer despite established relationship boundary",
+      "impact": "High",
+      "resolution": "Delayed compliance after multiple arguments",
+      "notes": "No apology received, created mutual resentment",
+      "patterns": ["double standards", "delayed compliance", "boundary testing"],
+      "relatedIncidents": [],
+      "evidence": {
+        "type": "behavioral",
+        "context": "She expects immediate compliance when asking me to block someone"
+      }
+    },
+    {
+      "id": "20240220001",
+      "date": "2024-02-20T00:00:00Z",
+      "category": "Impact on Family",
+      "subcategory": "Daughter Safety",
+      "description": "Chicken culling incident with Turi",
+      "impact": "High",
+      "resolution": "Attempted resolution through demanded compensation ($100 gift certificate)",
+      "notes": "Initial approval given, then blamed after daughter's reaction",
+      "patterns": ["retroactive blame", "financial manipulation", "child involvement"],
+      "triggers": ["daughter's emotional response"],
+      "familyImpact": {
+        "memberAffected": "Turi",
+        "nature": "Emotional distress",
+        "parentingConflict": true
+      }
+    },
+    {
+      "id": "20240215001",
+      "date": "2024-02-15T00:00:00Z",
+      "category": "Boundary Violation",
+      "subcategory": "Family Boundaries",
+      "description": "Extra chores incident - criticized for helping Lillian before partner",
+      "impact": "Medium",
+      "resolution": "None",
+      "notes": "Voluntary help met with criticism",
+      "patterns": ["help punishment", "priority demands", "family interference"],
+      "context": "Went beyond regular duties to help both parties"
+    },
+    {
+      "id": "20240210001",
+      "date": "2024-02-10T00:00:00Z",
+      "category": "Emotional Manipulation",
+      "subcategory": "Disproportionate Reaction",
+      "description": "Driving incident - rage response to last-minute direction",
+      "impact": "Medium",
+      "resolution": "Partner needed '20 minutes to cool down'",
+      "notes": "Driving at partner's request, following directions as given",
+      "patterns": ["rage response", "compliance punishment"],
+      "context": "Helping as requested but still received negative response"
+    },
+    {
+      "id": "20240205001",
+      "date": "2024-02-05T00:00:00Z",
+      "category": "Communication Issues",
+      "subcategory": "Overreaction",
+      "description": "Jacuzzi/pool maintenance observations led to emotional response",
+      "impact": "Medium",
+      "resolution": "None",
+      "notes": "Normal maintenance observations treated as personal attacks",
+      "patterns": ["experience ruining accusations", "maintenance communication issues"],
+      "context": "Attempted to address facility maintenance issues",
+      "locations": ["Jacuzzi", "Pool"]
+    },
+    {
+      "id": "20240201001",
+      "date": "2024-02-01T04:00:00Z",
+      "category": "Impact on Family",
+      "subcategory": "Sleep Disruption",
+      "description": "4AM loud confrontation over Parmesan cheese",
+      "impact": "Critical",
+      "resolution": "None",
+      "notes": "Used Lillian's comment about missing Parmesan to justify behavior",
+      "patterns": ["sleep disruption", "excessive reaction", "family impact"],
+      "familyImpact": {
+        "memberAffected": "Lillian",
+        "nature": "Sleep disruption",
+        "timeOfDay": "4:00 AM"
+      }
+    },
+    {
+      "id": "HEALTH001",
+      "date": "2024-02-01T00:00:00Z",
+      "category": "Health Related",
+      "subcategory": "Multiple Issues",
+      "description": "Ongoing health issues affecting behavior and relationship",
+      "impact": "High",
+      "resolution": "Ongoing",
+      "notes": "Multiple health issues cited as behavior justification",
+      "healthFactors": {
+        "conditions": [
+          "PMDD",
+          "Anemia",
+          "Fibroids"
+        ],
+        "impactAreas": [
+          "Mood",
+          "Behavior",
+          "Relationship dynamics"
+        ],
+        "treatmentStatus": "Discussed but not fully addressed"
+      }
+    }
+  ],
+  "metadata": {
+    "patterns": [
+      "Blame Shifting",
+      "Emotional Blackmail",
+      "Double Standards",
+      "Health Justification",
+      "Family Impact",
+      "Support Punishment",
+      "Boundary Testing",
+      "Experience Ruining Accusations"
+    ],
+    "impactAreas": [
+      "Family",
+      "Work",
+      "Personal Boundaries",
+      "Emotional Well-being",
+      "Sleep",
+      "Living Environment",
+      "Shared Activities"
+    ],
+    "recommendedAdditions": {
+      "fields": [
+        "healthFactors",
+        "familyImpact",
+        "patterns",
+        "triggers",
+        "evidence",
+        "emotionalState",
+        "context"
+      ]
+    }
+  }
+}
