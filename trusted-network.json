@@ -1,0 +1,219 @@
+{
+  "trustedNetwork": [
+    {
+      "id": "therapist-charles",
+      "name": "Charles Opsahl, PhD",
+      "role": "Therapist",
+      "avatar": "/Relationship-Pattern-Tracker/avatars/charles.jpg",
+      "avatarPlaceholder": "CO",
+      "expertise": ["Couples Therapy", "Psychological Health", "Relationship Dynamics"],
+      "credentials": "Psychologist, PhD",
+      "relationshipToCouple": "Professional",
+      "credibilityScore": 5,
+      "contactInfo": {
+        "email": "",
+        "phone": "(845) 250-5082",
+        "location": "New York, NY 10022",
+        "website": "https://www.psychologytoday.com/profile/charles-opsahl"
+      },
+      "insights": [
+        {
+          "id": "insight-001",
+          "date": "2025-02-15T00:00:00Z",
+          "topic": "Initial Assessment",
+          "content": "My mission is to provide the highest level of care for adults, couples, and business people. You may have wondered whether therapy could be helpful to you. I offer a phone consult to discuss any questions you may have. I understand the impact of your psychological health and am committed to helping during this time.",
+          "relatedIncidents": [],
+          "recommendedActions": [
+            "Schedule an initial phone consultation",
+            "Discuss relationship communication patterns",
+            "Explore individual psychological impacts of relationship dynamics"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "therapist-david",
+      "name": "David Longmire, LMHC, LP",
+      "role": "Therapist",
+      "avatar": "/Relationship-Pattern-Tracker/avatars/david.jpg",
+      "avatarPlaceholder": "DL",
+      "expertise": ["Counseling", "Trauma Resolution", "Life Purpose Coaching"],
+      "credentials": "Licensed Mental Health Counselor, Licensed Psychoanalyst",
+      "relationshipToCouple": "Professional",
+      "credibilityScore": 5,
+      "contactInfo": {
+        "email": "",
+        "phone": "(646) 762-5405",
+        "location": "Online Only",
+        "website": "https://www.psychologytoday.com/profile/david-longmire"
+      },
+      "insights": [
+        {
+          "id": "insight-002",
+          "date": "2025-02-20T00:00:00Z",
+          "topic": "Therapeutic Approach",
+          "content": "I work with individuals, couples, and groups. My specialties include gay and lesbian issues, issues related to creating a career in the arts, issues of blindness and visual impairment, and the resolution and healing of trauma. I also do life purpose coaching.",
+          "relatedIncidents": [],
+          "recommendedActions": [
+            "Explore trauma patterns in relationship",
+            "Consider life purpose alignment between partners",
+            "Address healing strategies for relationship wounds"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "therapist-marisa",
+      "name": "Marisa Caiola, LCSW",
+      "role": "Therapist",
+      "avatar": "/Relationship-Pattern-Tracker/avatars/marisa.jpg",
+      "avatarPlaceholder": "MC",
+      "expertise": ["Trauma Recovery", "Relationship Counseling", "OBGYN and Reproductive Services"],
+      "credentials": "SAVI Clinician, LCSW",
+      "relationshipToCouple": "Professional - Seth had 6 months of therapy",
+      "credibilityScore": 5,
+      "contactInfo": {
+        "email": "",
+        "phone": "(646) 895-1772",
+        "organization": "The Mount Sinai SAVI Program, Department of OBGYN and Reproductive Services",
+        "website": "https://www.mountsinai.org/care/obgyn/services/savi-support"
+      },
+      "insights": [
+        {
+          "id": "insight-003",
+          "date": "2024-12-15T00:00:00Z",
+          "topic": "Relationship Dynamics",
+          "content": "Based on our therapeutic sessions, I've observed recurring patterns in how you respond to perceived criticism and boundary violations. These patterns may be rooted in earlier relationship experiences and could benefit from joint exploration in a couples therapy context.",
+          "relatedIncidents": ["20240223001", "20240210001"],
+          "recommendedActions": [
+            "Practice self-regulation techniques during triggering moments",
+            "Establish clearer verbal boundaries regarding expectations",
+            "Consider how health-related issues might be affecting both parties' ability to communicate effectively"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "family-emily",
+      "name": "Emily Magee Binder",
+      "role": "Family Member",
+      "avatar": "/Relationship-Pattern-Tracker/avatars/emily.jpg",
+      "avatarPlaceholder": "EB",
+      "expertise": ["Child Psychology", "Family dynamics", "Educational Psychology"],
+      "credentials": "School Psychologist, Seth's Older Sister",
+      "relationshipToCouple": "Seth's Sister",
+      "credibilityScore": 4,
+      "contactInfo": {
+        "phone": "650-576-0352",
+        "website": "https://www.linkedin.com/in/emily-magee-binder-b4107930/"
+      },
+      "insights": [
+        {
+          "id": "insight-006",
+          "date": "2025-02-21T00:00:00Z",
+          "topic": "Family Context and Communication Patterns",
+          "content": "Having known Seth his entire life and with my background in psychology, I can see how some of our family communication patterns influence his relationship expectations. Seth has always valued clear, direct communication and emotional honesty within our family, which may create friction when paired with different communication styles. The patterns I've observed in your relationship suggest some fundamental differences in how you each process emotions and express needs.",
+          "relatedIncidents": ["20240210001", "20240205001"],
+          "recommendedActions": [
+            "Consider how your respective family-of-origin communication styles differ",
+            "Acknowledge that different doesn't mean wrong - find compromise in communication approaches",
+            "Practice translating between different emotional languages",
+            "Recognize when family patterns might be influencing current dynamics"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "family-susan",
+      "name": "Susan Magee",
+      "role": "Family Member",
+      "avatar": "/Relationship-Pattern-Tracker/avatars/susan.jpg",
+      "avatarPlaceholder": "SM",
+      "expertise": ["Family dynamics", "Seth's history and patterns"],
+      "credentials": "Seth's Mother",
+      "relationshipToCouple": "Seth's Parent",
+      "credibilityScore": 3,
+      "contactInfo": {
+        "phone": "858-229-3204"
+      },
+      "insights": [
+        {
+          "id": "insight-004",
+          "date": "2025-01-10T00:00:00Z",
+          "topic": "Observed Patterns",
+          "content": "I've known Seth his entire life and have observed his relationship patterns over many years. While I see his genuine commitment and care in relationships, I've noticed how deeply he values clear communication and mutual respect, sometimes becoming hurt when these expectations aren't met. As his mother, I can provide historical context to his communication style and emotional needs.",
+          "relatedIncidents": [],
+          "recommendedActions": [
+            "Consider how family-of-origin communication styles might be affecting current dynamics",
+            "Recognize that Seth's need for directness comes from a place of valuing honesty",
+            "Explore how childhood experiences shaped expectations of relationships"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "family-julienne",
+      "name": "Julienne Walker, O.D.",
+      "role": "Family Member",
+      "avatar": "/Relationship-Pattern-Tracker/avatars/julienne.jpg",
+      "avatarPlaceholder": "JW",
+      "expertise": ["Family dynamics", "Nalyse's history and patterns"],
+      "credentials": "Nalyse's Mother, Optometrist",
+      "relationshipToCouple": "Nalyse's Parent",
+      "credibilityScore": 3,
+      "contactInfo": {
+        "phone": "908-884-1568"
+      },
+      "insights": [
+        {
+          "id": "insight-005",
+          "date": "2025-01-15T00:00:00Z",
+          "topic": "Nalyse's Perspective",
+          "content": "As Nalyse's mother, I've witnessed her growth over the years and understand her communication style. Nalyse values her independence and may sometimes feel overwhelmed by what she perceives as controlling behaviors, even when they're well-intentioned. I believe better understanding of her need for autonomy alongside connection could help both of you navigate conflicts more effectively.",
+          "relatedIncidents": [],
+          "recommendedActions": [
+            "Recognize that Nalyse's desire for independence doesn't necessarily mean rejection of closeness",
+            "Consider how Nalyse's family experiences shaped her approach to conflict",
+            "Discuss expectations around personal space and autonomy openly"
+          ]
+        }
+      ]
+    }
+  ],
+  "credibilityLevels": [
+    {
+      "level": 1,
+      "description": "General acquaintance with limited exposure to the relationship"
+    },
+    {
+      "level": 2,
+      "description": "Friend or family member who has some insight but limited objectivity"
+    },
+    {
+      "level": 3,
+      "description": "Close friend or family member with substantial experience observing the relationship"
+    },
+    {
+      "level": 4,
+      "description": "Trusted confidant with deep understanding of both partners and relationship history"
+    },
+    {
+      "level": 5,
+      "description": "Professional with relevant expertise and objective perspective"
+    }
+  ],
+  "partners": [
+    {
+      "id": "seth",
+      "name": "Seth Magee",
+      "avatar": "/Relationship-Pattern-Tracker/avatars/seth.jpg",
+      "avatarPlaceholder": "SM"
+    },
+    {
+      "id": "nalyse",
+      "name": "Nalyse Seymore",
+      "avatar": "/Relationship-Pattern-Tracker/avatars/nalyse.jpg",
+      "avatarPlaceholder": "NS"
+    }
+  ]
+}

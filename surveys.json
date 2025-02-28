@@ -1,0 +1,186 @@
+{
+  "surveys": [
+    {
+      "id": "emotional-abuse-assessment",
+      "title": "Emotional Abuse Assessment",
+      "source": "Adapted from THE EMOTIONALLY ABUSIVE RELATIONSHIP: How to Stop Being Abused and How to Stop Abusing by Beverly Engel (Wiley; October 2002)",
+      "dateAdministered": "2025-02-28T00:00:00Z",
+      "sections": [
+        {
+          "id": "being-abused",
+          "title": "Are You Being Emotionally Abused?",
+          "questions": [
+            {
+              "id": "q1",
+              "text": "Do you feel as if your partner treats you like a child?",
+              "sethResponse": "NO",
+              "nalyseResponse": "YES"
+            },
+            {
+              "id": "q2",
+              "text": "Does your partner routinely ridicule, dismiss, or disregard your opinions and feelings?",
+              "sethResponse": "YES",
+              "nalyseResponse": "YES"
+            },
+            {
+              "id": "q3",
+              "text": "Do you find yourself \"walking on eggshells,\" wary of your partner's mood?",
+              "sethResponse": "YES",
+              "nalyseResponse": "YES"
+            },
+            {
+              "id": "q4",
+              "text": "Is your partner jealous and resentful of the time you spend with friends and family?",
+              "sethResponse": "YES",
+              "nalyseResponse": "YES"
+            },
+            {
+              "id": "q5",
+              "text": "Does your partner usually insist on making the decisions and getting his own way?",
+              "sethResponse": "YES",
+              "nalyseResponse": "YES"
+            },
+            {
+              "id": "q6",
+              "text": "Does your partner punish you by pouting, withdrawing, or withholding sex?",
+              "sethResponse": "YES",
+              "nalyseResponse": "NO"
+            },
+            {
+              "id": "q7",
+              "text": "Does you partner constantly accuse you of flirting or having affairs, without foundation?",
+              "sethResponse": "YES",
+              "nalyseResponse": "NO"
+            },
+            {
+              "id": "q8",
+              "text": "Does your partner seem impossible to please, finding fault with whatever you do?",
+              "sethResponse": "YES",
+              "nalyseResponse": "SOMETIMES"
+            },
+            {
+              "id": "q9",
+              "text": "Does your partner frequently put you down in front of others?",
+              "sethResponse": "NO",
+              "nalyseResponse": "NO"
+            },
+            {
+              "id": "q10",
+              "text": "Does your partner blame you for his or her own problems?",
+              "sethResponse": "YES",
+              "nalyseResponse": "YES"
+            },
+            {
+              "id": "q11",
+              "text": "Does your partner viciously tease and then accuse you of not being able to take a joke?",
+              "sethResponse": "NO",
+              "nalyseResponse": "YES"
+            },
+            {
+              "id": "q12",
+              "text": "Does your partner find it impossible to apologize or admit when he is wrong?",
+              "sethResponse": "YES",
+              "nalyseResponse": "YES"
+            },
+            {
+              "id": "q13",
+              "text": "Does your partner pressure you to engage in sexual acts that you find abhorrent?",
+              "sethResponse": "NO",
+              "nalyseResponse": "NO"
+            }
+          ]
+        },
+        {
+          "id": "being-abusive",
+          "title": "Are You Being Emotionally Abusive?",
+          "questions": [
+            {
+              "id": "q14",
+              "text": "Do you perceive of yourself as being smarter or somehow \"better than\" your partner?",
+              "sethResponse": "Not smarter, but we are each better in different ways.",
+              "nalyseResponse": "NO"
+            },
+            {
+              "id": "q15",
+              "text": "Do you threaten to leave the house or end the relationship when you don't get your way?",
+              "sethResponse": "If a non-negotiable or insurmountable impasse, one must.",
+              "nalyseResponse": "YES"
+            },
+            {
+              "id": "q16",
+              "text": "Do you think your partner is too sensitive and easily bruised by your teasing?",
+              "sethResponse": "NO",
+              "nalyseResponse": "NO"
+            },
+            {
+              "id": "q17",
+              "text": "Have you ever denied saying or doing something to make your partner doubt his sanity?",
+              "sethResponse": "NO",
+              "nalyseResponse": "YES"
+            },
+            {
+              "id": "q18",
+              "text": "Do you experience frequent mood shifts, going from loving to rejecting within minutes?",
+              "sethResponse": "NO",
+              "nalyseResponse": "YES"
+            },
+            {
+              "id": "q19",
+              "text": "Do you believe your partner should be willing to have sex whenever you are in the mood?",
+              "sethResponse": "I am hopeful I can find someone close to that, I am willing to provide that for her and get her in mood if I can.",
+              "nalyseResponse": "NO"
+            },
+            {
+              "id": "q20",
+              "text": "Do you believe your partner should put other things aside to tend to your needs?",
+              "sethResponse": "YES",
+              "nalyseResponse": "YES"
+            },
+            {
+              "id": "q21",
+              "text": "Do you often telephone your partner at work or at home for reassurance of his love?",
+              "sethResponse": "YES if a match, easy",
+              "nalyseResponse": "NO"
+            },
+            {
+              "id": "q22",
+              "text": "Do you question your partner incessantly about her activities when you are apart?",
+              "sethResponse": "NO",
+              "nalyseResponse": "NO"
+            },
+            {
+              "id": "q23",
+              "text": "Do you insist on being in control of the money in the relationship?",
+              "sethResponse": "NO",
+              "nalyseResponse": "NO"
+            },
+            {
+              "id": "q24",
+              "text": "Do you expect your partner to always have the same opinions and passions as you?",
+              "sethResponse": "NO",
+              "nalyseResponse": "NO"
+            },
+            {
+              "id": "q25",
+              "text": "Have you ever threatened to destroy something of value to your partner?",
+              "sethResponse": "NO",
+              "nalyseResponse": "NO"
+            },
+            {
+              "id": "q26",
+              "text": "Have you ever thrown or broken objects in an attempt to scare your partner?",
+              "sethResponse": "NO",
+              "nalyseResponse": "YES"
+            }
+          ]
+        }
+      ],
+      "relatedIncidents": [
+        "20250226001",
+        "20240223001",
+        "20240210001"
+      ],
+      "analysisNotes": "Both partners show concerning patterns in this assessment. Seth reports feeling dismissed, walking on eggshells, and experiencing blame-shifting, which corresponds with documented incidents. Nalyse acknowledges mood shifts, denying things that were said, and physical intimidation through breaking objects. There is agreement on some fundamental relationship challenges, particularly around communication, accountability, and emotional reactivity."
+    }
+  ]
+}
